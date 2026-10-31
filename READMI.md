@@ -1,7 +1,7 @@
 # Pertemuan 12 — File Input-Output dan Penanganan Error Dasar
 
-**Nama:** Firgi Erviansyah  
-**NIM:** 2225250170 
+**Nama:** muhamad nurul bayan  
+**NIM:** 2225250115
 **Kelas:** 3B
 
 ## Deskripsi
